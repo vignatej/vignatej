@@ -17,6 +17,18 @@
   <li><b>SoftSkills:</b> Self-motivation, Patience, Leadership.</li>
 </ul>
 
+<h3>Experiences: </h3>
+<ol>
+  <li>
+    <h4>SDE - Intern at Gallabox </h4>
+    <ul>
+      <li>Developed new webpages using NextJs, enhancing companies official website.</li>
+      <li>Increased the Lighthouse performance on mobile version from 42% to 76%..</li>
+      <li>Technologies Used: Javascript, ReactJs, NextJs. </li>
+    </ul>
+  </li>
+</ol>
+
 <h3>Achievements: </h3>
 <ul>
   <li>LEETCODE [Rating: 2155++], KNIGHT on Leetcode</li>
