@@ -15,8 +15,8 @@
 
 <h3>Contacts: </h3>
 
-- Mail: **vignatej123@gmail.com**
-- Cell: **+91 7330776599**
+- <a target="_blank" href="mailto:vignatej123@gmail.com">Mail: vignatej123@gmail.com</a>
+- <a target="_blank" href="tel:+917330776599">Cell: +91 7330776599 </a>
 - <a target="_blank" href="https://www.linkedin.com/in/paduru-vigna-tej-reddy/">LinkedIn</a>
 
 
