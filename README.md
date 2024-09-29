@@ -9,14 +9,14 @@
 <h3><a target="_blank" href="https://vignatejpersonalwebsite.netlify.app/">My Portfolio Website</a></h3>
 
 
-
+<h4><a target="_blank" href="https://leetcode.com/u/vignatejreddy/">LEETCODE [Rating: 2155++], KNIGHT on Leetcode. solved more than 800 questions</a></h4>
 
 
 
 <h3>Contacts: </h3>
 
 - <a target="_blank" href="mailto:vignatej123@gmail.com">Mail: vignatej123@gmail.com</a>
-- <a target="_blank" href="tel:+917330776599">Cell: +91 7330776599 </a>
+- <a href="tel:+917330776599">Cell: +91 7330776599 </a>
 - <a target="_blank" href="https://www.linkedin.com/in/paduru-vigna-tej-reddy/">LinkedIn</a>
 
 
@@ -46,20 +46,15 @@
   </li>
 </ol>
 
-<h3>Achievements: </h3>
-<ul>
-  <li>LEETCODE [Rating: 2155++], KNIGHT on Leetcode <a target="_blank" href="https://leetcode.com/u/vignatejreddy/">(Leetcode Link)</a></li>
-  <li>800++ questions solved on LeetCode - top 1.4%</li>
-  <li>JEE Mains - 99 percentile - In top 1%</li>
-</ul>
+
 
 <h3>Education</h3>
 <ul>
   <li>
-    Bachelor's in Technology at <b>NATIONAL INSTITUTE OF TECHNOLOGY ANDHRA PRADESH (2020-24)</b>
+    Bachelor's in Technology at <b>NATIONAL INSTITUTE OF TECHNOLOGY ANDHRA PRADESH (2020-24)</b> in <b>CS</b> department.
   </li>
   <li>
-    Narayana (class 10 & 12) 10thClass: <b>10/10 CGPA</b>, 12thClass: <b>971/1000 Marks</b>.
+    10thClass: <b>10/10 CGPA</b>, 12thClass: <b>971/1000 Marks</b>, JEE: <b>99 percentile (out of 1.4 million)</b>.
   </li>
 </ul>
 
