@@ -14,7 +14,7 @@
 
 
 <h3>Contacts: </h3>
-
+- If yoy fell I am goot fit for any opportunities, contact me at your convinience.
 - <a target="_blank" href="mailto:vignatej123@gmail.com">Mail: vignatej123@gmail.com</a>
 - <a href="tel:+917330776599">Cell: +91 7330776599 </a>
 - <a target="_blank" href="https://www.linkedin.com/in/paduru-vigna-tej-reddy/">LinkedIn</a>
