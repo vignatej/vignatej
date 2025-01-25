@@ -6,7 +6,9 @@
 
 
 
-<h3><a target="_blank" href="https://vignatejpersonalwebsite.netlify.app/">My Portfolio Website</a></h3>
+<!-- 
+<h3><a target="_blank" href="https://vignatejpersonalwebsite.netlify.app/">My Portfolio Website</a></h3> 
+-->
 
 
 <h4><a target="_blank" href="https://leetcode.com/u/vignatejreddy/">LEETCODE [Rating: 2155++], KNIGHT on Leetcode. solved more than 800 questions</a></h4>
@@ -33,9 +35,9 @@
 <h3>Experiences: </h3>
 <ol>
   <li>
-    <h4>ML Engineer at Tiger Analytics</h4>
+    <h4>ML Engineering Trainee at Tiger Analytics</h4>
     <ul>
-      <li>Upcomming from Oct 2024</li>
+      <li>Currently in training phase.</li>
     </ul>
   </li>
   <li>
