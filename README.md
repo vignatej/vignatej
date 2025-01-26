@@ -4,8 +4,6 @@
 
 <h3><a target="_blank" href="https://1drv.ms/b/c/b14585ec3b7ad02d/EdRD8ykCm-NOpH5aWTZVUcEBy8wT_dUu9nMShk6W9VX_cQ?e=V6louv">My Resume Link</a></h3>
 
-
-
 <!-- 
 <h3><a target="_blank" href="https://vignatejpersonalwebsite.netlify.app/">My Portfolio Website</a></h3> 
 -->
