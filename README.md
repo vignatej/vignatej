@@ -9,7 +9,7 @@
 -->
 
 
-<h4><a target="_blank" href="https://leetcode.com/u/vignatejreddy/">LEETCODE [Rating: 2155++], KNIGHT on Leetcode. solved more than 800 questions</a></h4>
+<h4><a target="_blank" href="https://leetcode.com/u/vigna-tej/">LEETCODE [Rating: 2155++], KNIGHT on Leetcode. solved more than 800 questions</a></h4>
 
 
 
